@@ -1,0 +1,18 @@
+{
+  "name": "auth0-vm2-webpack-repro",
+  "version": "0.0.1",
+  "description": "Attempt at reproducing webpack error with Auth0 v2.36.2",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auth0": "2.36.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "4.7.2",
+    "webpack": "5.42.1"
+  }
+}
